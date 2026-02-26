@@ -1,11 +1,10 @@
 # ds3021-project1
 
-## part 1: visualtization
+## part 1: visualization
 - create a pairplot to see if columns have initial patterns
 - comment on these visualizations
-- explore outliers or adnormal activity
+- explore outliers or abnormal activity
 - compute correlations
-
 
 ## part 2: knn
 
